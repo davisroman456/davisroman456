@@ -1,11 +1,13 @@
 ## Hi there, I'm Roman Davis! 👋
 
-Incoming CS student @ Harford Community College, planning to transfer to The University of Maryland next year.
+**Incoming CS student @ Harford Community College**, planning to transfer to The University of Maryland next year.
 
 ## Skills
 
 **Languages**: Java (Primary), C, Python
-**Tools and Environments:** Eclipse, Visual Studio, Godot, Unity
+
+**Tools and Environments:** Eclipse, Visual Studio, Godot, Unity, Git & GitHub
+
 **Soft Skills:** Time mangement, Collaboration, 
 
 ## About Me
