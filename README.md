@@ -8,7 +8,7 @@
 
 **Tools and Environments:** Eclipse, Visual Studio, Godot, Unity, Git & GitHub
 
-**Soft Skills:** Time mangement, Collaboration, 
+**Soft Skills:** Time Management, Collaboration, 
 
 ## About Me
 
